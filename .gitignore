@@ -1,0 +1,10 @@
+# Ignore all files without extension in output directory
+output/*
+!output/*.cpp
+!output/*.h
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore build directories
+*.dSYM/
