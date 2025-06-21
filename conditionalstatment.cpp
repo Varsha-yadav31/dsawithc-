@@ -15,5 +15,3 @@ int main() {
 
 //find upper and lower case latter
 
-
-
