@@ -20,6 +20,16 @@ void printCharPattern(int n) {
         cout << endl;
     }
 }
+void printPattern(int n , int num){
+    n = 4;
+    num = 1;
+    for (int i = 0; i<=n; i++){
+        for(int j= 0; j<=n; j++ ){
+            
+        }
+
+    }
+}
 
 int main() {
     int n = 5;
